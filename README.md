@@ -1,7 +1,7 @@
-# Análise do Orçamento Público (2020-2024) com Power BI
+# Análise do Orçamento Público (2016-2024) com Power BI
 
 ## Sobre o Projeto
-Este projeto utiliza **Power BI** para analisar a execução orçamentária da União entre 2020 e 2024. Os dados foram extraídos do **Portal da Transparência** e do **IBGE (PIB do Brasil)**, totalizando **mais de 127 mil linhas de informações**.
+Este projeto utiliza **Power BI** para analisar a execução orçamentária da União entre 2016 e 2024, assim como dados de inflação e PIB. Os dados foram extraídos do **Portal da Transparência** e do **IBGE (PIB do Brasil)**, totalizando **mais de 233 mil linhas de informações**.
 
 ## Principais Funcionalidades
 - Extração e tratamento de dados (ETL)
@@ -9,6 +9,7 @@ Este projeto utiliza **Power BI** para analisar a execução orçamentária da U
 - Análise da execução orçamentária ao longo dos anos
 - Comparação entre orçamento e PIB
 - Visualização da distribuição dos gastos por categoria
+- Permite ver correlação entre aumento de gastos e inflação
 
 ## Fontes dos Dados
 - [Portal da Transparência](https://portaldatransparencia.gov.br/download-de-dados)
@@ -23,14 +24,21 @@ Para visualizar e interagir com os dashboards, você precisará de:
 ### Visão Geral do Dashboard
 > ![Visão Geral do Dashboard](imagens/dashboard.png)
 
-### Despesas do Governo com Assistência Social (Pico na Pandemia)
-> ![Despesas Assistência Social](imagens/gastos_assistencia_social.png)
+### Despesas do Governo com Assistência Social
+Os gastos com Assistência Social atingiram seu pico durante a pandemia de COVID-19 em 2020, saltando de 1,26% do PIB em 2019 para 5,39% do PIB no ano seguinte.
+> ![Despesas Assistência Social](imagens/gastos-assistencia-social.png)
 
-### Despesas do Governo com Defesa Nacional
-> ![Despesas Assistência Social](imagens/gastos-defesa-nacional.png)
+### Despesas do Governo com Educação
+Cerca de um trilhão de reais foi gasto em educação no período observado, ante R$ 6,62 trilhões em Previdência Social. Proporcionalmente, gastou-se em educação o equivalente a 14% do valor aplicado em Previdência.
+> ![Despesas Educação](imagens/gastos-educacao.png)
 
-### Despesas do Ministério da Saúde (Aumento contínuo desde a Pandemia)
-> ![Despesas Assistência Social](imagens/gastos-ministerio-da-saude.png)
+### IPCA contra Aumento Anual dos Gastos Públicos
+Naturalmente, a inflação reflete o aumento de gastos, como é possível ver no gráfico. Percebe-se que o IPCA reage de forma "lenta" em relação ao aumento do orçamento realizado: um pico de gastos antecipa, no próximo ano, um pico de inflação. 
+> ![IPCA e Gastos](imagens/ipca-e-aumento-de-gastos.png)
+
+### Despesas do Ministério da Fazenda
+É responsável por gastar 57% do orçamento federal, sendo praticamente tudo em encargos especiais e uma pequena contribuição na previdência social. 
+> ![Despesas Ministério da Fazenda](imagens/gastos-ministerio-da-saude.png)
 
 ---
 
