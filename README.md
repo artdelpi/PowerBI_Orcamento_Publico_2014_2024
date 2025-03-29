@@ -33,8 +33,8 @@ O painel revela que, durante o governo Bolsonaro, a inflação acumulada foi de 
 É importante destacar que a pandemia pressionou o aumento de gastos devido à assistência social, como o auxílio emergencial, o que ampliou significativamente o déficit das contas públicas e impulsionou a inflação.
 > ![Despesas Assistência Social](imagens/governo-bolsonaro.png)
 
-### Dados Orçamentários e Econômicos da Gestão Lula (2022-2024)
-A inflação acumulada no período foi de 16,02%, enquanto os gastos públicos cresceram 19,97%. Nota-se uma redução dos gastos em relação ao PIB nominal em reais, que aumentou 15,5%. No entanto, o crescimento do PIB nominal foi inferior à inflação no período, o que indica uma queda no PIB real.
+### Dados Orçamentários e Econômicos da Gestão Lula (2023-2024)
+A inflação acumulada no período foi de 9,67%, enquanto os gastos públicos cresceram 14,35%. O PIB em reais teve um aumento de 7,3%, inferior à inflação do período, o que indica uma retração na economia real do país.
 > ![Despesas Assistência Social](imagens/governo-lula.png)
 
 ### Despesas do Governo com Assistência Social
