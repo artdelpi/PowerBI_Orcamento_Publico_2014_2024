@@ -30,7 +30,6 @@ Este dashboard exibe dados da receita e dos gastos federais acumulados dentro de
 ### Dados Orçamentários e Econômicos da Gestão Bolsonaro (2018-2022)
 > ![Despesas Assistência Social](imagens/governo-bolsonaro.png)
 O painel revela que, durante o governo Bolsonaro, a inflação acumulada foi de 31,7%, enquanto os gastos aumentaram 64% e o PIB nominal em reais cresceu 44%. Como o PIB nominal é diretamente influenciado pela inflação, esse crescimento elevado pode ser explicado. Porém, em dólares e em termos reais, o PIB apresentou queda na pandemia.
-
 É importante destacar que a pandemia pressionou o aumento de gastos devido à assistência social, como o auxílio emergencial, o que ampliou significativamente o déficit das contas públicas e impulsionou a inflação.
 
 ### Dados Orçamentários e Econômicos da Gestão Lula (2023-2024)
